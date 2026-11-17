@@ -1,0 +1,1 @@
+The supplied source was an exported Jupyter HTML notebook. Code and narrative cells were reconstructed into a .ipynb file. Embedded figures were exported as separate files; outputs were not re-executed. The notebook references Churn.csv, which is not included. Check course publishing rules and dataset licensing before making a public repository.
